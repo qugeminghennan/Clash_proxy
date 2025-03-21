@@ -4,7 +4,7 @@
  * @Description: 
  * Copyright (c) 2022 by wzdnzd, All Rights Reserved.
 -->
-
+！！！我不是原作，忘了怎么复制项目所以上传了原作，原作指路https://github.com/wzdnzd/aggregator！！！
 ## 功能
 打造免费代理池，爬一切可爬节点
 > 拥有灵活的插件系统，如果目标网站特殊，现有功能未能覆盖，可针对性地通过插件实现
